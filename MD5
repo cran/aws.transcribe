@@ -1,0 +1,17 @@
+53d4e7588a0f291b37355fe02fc7cc8e *DESCRIPTION
+9dfc45a9192dd86bc0beba554b9d72b5 *NAMESPACE
+679357726eac64b3cb56ecf30ee6d227 *NEWS.md
+8db94a7d67923410ae2d0c4d90df47ee *R/get_transcription.R
+1f77c1bcc36c85f7c0977516b50084d4 *R/list_transcriptions.R
+cdeadebc515bbca9a9616e7788936e5a *R/package.R
+a96f8fcb84fca5bc786c2b1b7de8f482 *R/start_transcription.R
+f62b26b53c8fb9eb9b8fab4eb67a3cd6 *R/transcribeHTTP.R
+a2de32f5d1cc765ccf295d55465e0276 *README.md
+cdfcc43aa88653dc373cf8a1abeb40e7 *inst/CITATION
+944c2c1e716f583f72f13afaf67bc6c5 *man/aws.transcribe-package.Rd
+27a05ed29ac7d29cff6ba5203a928364 *man/get_transcription.Rd
+8cd8960a36cae54782a0604ebeb2e55e *man/list_transcriptions.Rd
+c0537e236923954e0e4cc7dafe53bb18 *man/start_transcription.Rd
+32ced0723043289b4db01b1dbefb5920 *man/transcribeHTTP.Rd
+217813c2a85325d7254a9720df4d5dc2 *tests/testthat.R
+fcb4824dde74c82806c06551dd891be8 *tests/testthat/tests.R
