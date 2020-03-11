@@ -1,3 +1,8 @@
+# aws.transcribe 0.1.3
+
+* First CRAN release
+* New maintainer @antoine-sachet
+
 # aws.transcribe 0.1.2
 
 * Finish minimum working example.
